@@ -35,8 +35,8 @@ python gui_chatbot.py
 ```
 
 ## File Descriptions
-`gui_chatbot.py`: The main script to launch the chatbot interface.
-`train_chatbot.py`: Script to train the chatbot model.
-`chatbot_model.h5`: Saved chatbot model.
-`classes.pkl, words.pkl`: Pickle files for classes and words.
-`intents.json`: Contains predefined patterns and responses.
+- `gui_chatbot.py`: The main script to launch the chatbot interface.
+- `train_chatbot.py`: Script to train the chatbot model.
+- `chatbot_model.h5`: Saved chatbot model.
+- `classes.pkl, words.pkl`: Pickle files for classes and words.
+- `intents.json`: Contains predefined patterns and responses.
