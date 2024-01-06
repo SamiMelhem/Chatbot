@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python-based Chatbot project showcases my exploration into the realms of artificial intelligence and natural language processing. It's designed to interact with users in a conversational manner, providing responses based on predefined intents and patterns.
+This Python-based Chatbot project showcases my exploration into the realms of artificial intelligence, specifically the field of natural language processing. It is designed to interact with users in a conversational manner, providing responses based on predefined intents and patterns. A key feature of this project is the custom-built neural network model, consisting of 3 dense layers, which I trained to enable the chatbot to understand and respond effectively to user queries.
 
 ## Features
 - **Conversational Interface**: Engages users with text-based interactions.
